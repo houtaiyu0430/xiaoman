@@ -1,0 +1,11 @@
+# 导航顺序就是这里从上到下的顺序。想加页面就往 main 里加一条。
+
+main:
+  - title: "首页"
+    url: /
+
+  - title: "我喜欢的东西"
+    url: /likes/
+
+  - title: "碎碎念"
+    url: /year-archive/
